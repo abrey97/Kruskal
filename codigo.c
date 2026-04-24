@@ -1,4 +1,12 @@
-//Algoritmo voraces - Kruskal
+//Algoritmo voraces: "Kruskal"
 #include <stdio.h>
 
-//ejemplo
+//funciones
+
+
+int main(){
+
+
+
+    return 0;
+}
